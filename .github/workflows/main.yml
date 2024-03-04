@@ -68,5 +68,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_notable: yes
+          plugin_notable_from: all
+          plugin_natable_types: commit, pull_request, issues
   
           
