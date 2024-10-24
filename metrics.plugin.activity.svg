@@ -23,11 +23,11 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#365 Introduce `e2e_protection_state` kind field for e2e_protection qos.</span>
+                                        <span class="issue">#51 introduce the ability to set `tev` thread priority</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">ZettaScaleLabs/cyclonedds-certified</span></div>
+                                    <div>opened by poetinger in <span class="repo">ZettaScaleLabs/entityprovider</span></div>
                                 </div>
                             </section>
                         </div>
@@ -39,11 +39,11 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#365 Introduce `e2e_protection_state` kind field for e2e_protection qos.</span>
+                                        <span class="issue">#51 introduce the ability to set `tev` thread priority</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">ZettaScaleLabs/cyclonedds-certified</span></div>
+                                    <div>opened by poetinger in <span class="repo">ZettaScaleLabs/entityprovider</span></div>
                                 </div>
                             </section>
                         </div>
