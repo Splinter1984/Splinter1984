@@ -26,6 +26,7 @@ jobs:
           user: Splinter1984
           template: classic
           base: header, repositories
+          base_indepth: yes
           config_timezone: Europe/Netherlands
           plugin_habits: yes
           plugin_habits_days: 28
